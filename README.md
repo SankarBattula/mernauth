@@ -41,3 +41,6 @@ proxy_set_header Host $host;
 proxy_cache_bypass $http_upgrade;
 sudo service nginx restart
 sudo nginx -t
+
+# to install Certbot
+https://www.linode.com/docs/guides/secure-http-traffic-certbot/
