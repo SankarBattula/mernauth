@@ -1,9 +1,9 @@
 # Add User
-`$apt update && apt upgrade
-$adduser mernweb
-$usermod -aG sudo mernweb
-$groups mernweb
-$su - mernweb`
+$apt update && apt upgrade &nbsp;
+$adduser mernweb &nbsp;
+$usermod -aG sudo mernweb &nbsp;
+$groups mernweb &nbsp;
+$su - mernweb &nbsp;
 
 # Install Node JS
 https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
